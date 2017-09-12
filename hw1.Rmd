@@ -1,0 +1,22 @@
+---
+title: "hw1"
+author: Marshall, Ryan, Jiaan'Andrea'
+date: 9/14/17
+output: html_document
+---
+
+```{r Introduction}
+insert video
+```
+
+```{r Group Members}
+Marshall:
+Ryan:
+Andrea:
+```
+
+```{r R Markdown Syntax}
+
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
