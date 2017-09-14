@@ -17,7 +17,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Group Members
 
-Marshall:
+* Marshall:
 
 * Ryan: 
 
@@ -38,7 +38,22 @@ Hello! My name is Ryan, [Here is a picture of me and a random dog i was swimming
 +---------------+-------------------+
 
 
-Andrea:
+* Andrea:
 
 ## R Markdown Syntax
 
+* cache problem
+here is an example where the cache chunk option leads to an error 
+```{r nicechunk}
+a <- "apples"
+```
+
+```{r errorchunk, cache=T}
+if(a == "apples"){
+  a <- "bananas"
+  sprintf("a is now equal to %s !", a)
+}
+```
+
+
+if we change value of a in "nicechunk" to `a <- 4`, then "errorchunk" will produce a misleading message. To avoid this, we could use "dependson" argument in the "errorchunk"
