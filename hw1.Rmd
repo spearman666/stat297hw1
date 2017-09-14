@@ -108,15 +108,16 @@ $$\text{E}[\text{var} \{{ \upsilon_1 ({\hat{\theta}},n) | {\hat{\theta}} \}}] = 
 <span style="color:blue">“Vérité dans un temps, erreur dans un autre.”, Charles de Montesquieu</span>
 
 * include a color box
+
 <style>
 div.blue pre { background-color:lightblue; }
 div.blue pre.r { background-color:blue; }
 </style>
-
 <div class = "blue">
-```{r bluecars}
+```{r}
 #This is a very important message!
 ```
+
 
 * include a button
 
