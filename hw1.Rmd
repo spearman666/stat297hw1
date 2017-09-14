@@ -110,6 +110,9 @@ $$= \text{var} \{{ \upsilon_1 ({{\theta_0}},n)\}} + O (n^{-2}). $$
 <textarea name="myTextBox" cols="10" rows="2" style="border:0px; background-color:#38B1F1;">
 this is hard
 </textarea>
+<br />
+<input type="submit" />
+</form>
 </p>
 
  #reference
