@@ -42,6 +42,25 @@ Hello! My name is Ryan, [Here is a picture of me and a random dog i was swimming
 ![Andrea Wan DS 19'](https://scontent.fagc1-1.fna.fbcdn.net/v/t1.0-9/21616117_891688517649117_5527795717679614782_n.jpg?oh=f3e0a74f1aa4c9b93d5de2895169c0d8&oe=5A12C08D ){ width=30% }
 *italics Hi, I'm Andrea. I don't really have much interesting hobbies, and kind of doing what all college students do. I do art and play piano sometimes. One interesting fact is that I'm international and passionate about education in developing countries, even if I'm a statistics major. *
 >Be kind, for everyone you meet is fighting a hard battle. -Ian Maclaren
++---------------+-------------------+
+| Classes       | Times             |
++===============+===================+
+| Music 50      | MW  11:15-12:05 p |
++---------------+-------------------+
+| Stat 414      | MWF  1:25-2:15 p  |
++---------------+-------------------+
+| DS 330        | MW  2:30-3:45 p   |
++---------------+-------------------+
+| CMPSC 122     | MWF 4:40-5:30 p   |
++---------------+-------------------+
+| Stat 297      | TuTh 12:95-1:20 p |
++---------------+-------------------+
+| DS 300        | TuTh 3:05-4:20 p  |
++---------------+-------------------+
+| Soc 469       | MF  9:05-11:05 p  |
++---------------+-------------------+
+| Psych 494     | Fri  3:00-4:30 p  |
++---------------+-------------------+
 
 ## R Markdown Syntax
 
