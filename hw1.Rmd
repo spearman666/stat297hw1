@@ -20,6 +20,21 @@ knitr::opts_chunk$set(echo = TRUE)
 ## Group Members
 
 * Marshall:
+SUUP, my name is Marshall Malino![I am on the right of this picture, and my brother is on the left. ](https://www.facebook.com/photo.php?fbid=10214532233765596&set=a.1176915029047.2028280.1413243143&type=3&theater) I enjoy watching netflix, playing video games, and spending time with friends. My hobbies are learning machine learning for Data Science, and going out to meet/ befriend new people. I came here from South Carolina, grew up in California, and was born in Louisianna!
+>"900 years of time and space, and i've never met anyone who wasn't important."" -The Doctor (Dr Who)
++---------------+-------------------+
+| Classes       | Times             |
++===============+===================+
+| Stat 297      | TuTh 12:05-1:20 p |
++---------------+-------------------+
+| Astro 1       | MW 12:20-1:35 p   |
++---------------+-------------------+
+| Math 220      | TuTh 8:00-8:50 a  |
++---------------+-------------------+
+| Math 230      | MWThF 3:35-4:25 p |
++---------------+-------------------+
+| Math 311W     | MWF  2:30-3:20 p  |
++---------------+-------------------+
 
 * Ryan: 
 
@@ -106,6 +121,17 @@ $$\text{E}[\text{var} \{{ \upsilon_1 ({\hat{\theta}},n) | {\hat{\theta}} \}}] = 
 * Include the following text in blue:
 
 <span style="color:blue">“Vérité dans un temps, erreur dans un autre.”, Charles de Montesquieu</span>
+
+*include a button
+
+
+<button data-toggle="collapse" data-target="#demo">
+Don't hit the button
+</button>
+
+<div id="demo" class="collapse">
+<p>you're a rebel</p>
+</div>
 
 * include a color box
 
