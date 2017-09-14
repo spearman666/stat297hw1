@@ -105,6 +105,13 @@ $$= \text{var} \{{ \upsilon_1 ({{\theta_0}},n)\}} + O (n^{-2}). $$
 
 * Include inline equation $A \equiv [a_i,j]_{i,j=1,...,p}$ .
  
+ 
+ <p>
+<textarea name="myTextBox" cols="10" rows="2" style="border:0px; background-color:#38B1F1;">
+this is hard
+</textarea>
+</p>
+
  #reference
 @inproceedings{algora2016poster,
   title={Poster: Comparative study of EM-MAC and TSCH/orchestra for IoT},
