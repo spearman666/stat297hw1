@@ -39,6 +39,8 @@ Hello! My name is Ryan, [Here is a picture of me and a random dog i was swimming
 
 
 * Andrea:
+![Andrea Wan DS 19'](https://scontent.fagc1-1.fna.fbcdn.net/v/t1.0-9/21616117_891688517649117_5527795717679614782_n.jpg?oh=f3e0a74f1aa4c9b93d5de2895169c0d8&oe=5A12C08D ){ width=30% }
+*italics Hi, I'm Andrea. I don't really have much interesting hobbies, and kind of doing what all college students do. I do art and play piano sometimes. One interesting fact is that I'm international and passionate about education in developing countries, even if I'm a statistics major. *
 
 ## R Markdown Syntax
 
