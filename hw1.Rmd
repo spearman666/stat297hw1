@@ -12,6 +12,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Introduction
 * insert video
+<iframe width="560" height="315" src="https://psu.box.com/v/ryanmarshallandreahw1" frameborder="0" allowfullscreen></iframe>
 
 
 
