@@ -3,6 +3,7 @@ title: "hw1"
 author: Marshall, Ryan, Jiaan'Andrea'
 date: 9/14/17
 output: html_document
+bibliography: bibliography.bib
 ---
 
 ```{r setup, include=FALSE}
@@ -91,3 +92,12 @@ var(x)
 hist(x)
 ```
  
+ #reference
+@inproceedings{algora2016poster,
+  title={Poster: Comparative study of EM-MAC and TSCH/orchestra for IoT},
+  author={Algora, Carlos M Garcia and Lopez, Ernesto Prieto and Reguera, Vitalio Alfonso and Nowe, Ann and Steenhaut, Kris},
+  booktitle={Communications and Vehicular Technologies (SCVT), 2016 Symposium on},
+  pages={1--6},
+  year={2016},
+  organization={IEEE}
+}
