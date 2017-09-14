@@ -20,6 +20,21 @@ knitr::opts_chunk$set(echo = TRUE)
 ## Group Members
 
 * Marshall:
+SUUP, my name is Marshall Malino![I am on the right of this picture, and my brother is on the left. ](https://www.facebook.com/photo.php?fbid=10214532233765596&set=a.1176915029047.2028280.1413243143&type=3&theater) I enjoy watching netflix, playing video games, and spending time with friends. My hobbies are learning machine learning for Data Science, and going out to meet/ befriend new people. I came here from South Carolina, grew up in California, and was born in Louisianna!
+>"900 years of time and space, and i've never met anyone who wasn't important." -The Doctor (Dr Who)
++---------------+-------------------+
+| Classes       | Times             |
++===============+===================+
+| Stat 297      | TuTh 12:05-1:20 p |
++---------------+-------------------+
+| Astro 1       | MW 12:20-1:35 p   |
++---------------+-------------------+
+| Math 220      | TuTh 8:00-8:50 a  |
++---------------+-------------------+
+| Math 230      | MWThF 3:35-4:25 p |
++---------------+-------------------+
+| Math 311W     | MWF  2:30-3:20 p  |
++---------------+-------------------+
 
 * Ryan: 
 
@@ -62,7 +77,7 @@ Hello! My name is Ryan, [Here is a picture of me and a random dog i was swimming
 | Soc 469       | MF  9:05-11:05 p  |
 +---------------+-------------------+
 | Psych 494     | Fri  3:00-4:30 p  |
-+---------------+-------------------+
++---------------+-------------------
 
 ## R Markdown Syntax
 
@@ -96,14 +111,20 @@ hist(x)
 ```
 
 
-* Include equation
+ $$\mathbb{E} [var\left\{ v_1\left( \hat{\theta},n \right)| \hat{\theta} \right\}] = var\left\{v_1 \left( \theta_0,n \right)  \right\} +\mathbb{E}[O_p\left\{ D_1 \left(\theta^*,n \right)   \left(\hat{\theta}-\theta_0 \right),...D_p  \left(\theta^*,n\right) \left(\theta - \theta_0 \right) \right\}] \\= var\left\{v_1 \left( \theta_0,n \right)  \right\} + O \left( n^{-2} \right)\\ A \equiv[a_{i,j}]_{_{i,j=1,...p^*}}
+$$
 
-$$\E[\text{var} \{{ \upsilon_1 ({\hat{\theta}},n) | {\hat{\theta}} \}}] &=& \text{var} \{{ \upsilon_1 ({{\theta_0}},n)\}} + \E[O_p \{\text{D}_1 (\theta^*,n)(\hat\theta - \theta_0),...,\text{D}_p (\theta^*,n)(\hat\theta - \theta_0) \}] $$
+<span style="color:blue">Vérité dans un temps, erreur dans un autre.”, Charles de Montesquieu  </span>.
 
-$$= \text{var} \{{ \upsilon_1 ({{\theta_0}},n)\}} + O (n^{-2}). $$
+<button data-toggle="collapse" data-target="#demo">
+Don't hit the button
+</button>
+
+<div id="demo" class="collapse">
+<p>you're a rebel</p>
+</div>d
 
 
-* Include inline equation $A \equiv [a_i,j]_{i,j=1,...,p}$ .
  
  
  <p>
