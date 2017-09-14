@@ -145,7 +145,6 @@ div.blue pre.r { background-color:blue; }
 ```
 
 
-* include a button
 
 ## reference
 @inproceedings{algora2016poster,
