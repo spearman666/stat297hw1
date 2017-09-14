@@ -9,13 +9,13 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-##Introduction
+## Introduction
 * insert video
 
 
 
 
-##Group Members
+## Group Members
 
 Marshall:
 
@@ -40,5 +40,5 @@ Hello! My name is Ryan, [Here is a picture of me and a random dog i was swimming
 
 Andrea:
 
-##R Markdown Syntax
+## R Markdown Syntax
 
