@@ -5,18 +5,40 @@ date: 9/14/17
 output: html_document
 ---
 
-```{r Introduction}
-insert video
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
 ```
 
-```{r Group Members}
+##Introduction
+* insert video
+
+
+
+
+##Group Members
+
 Marshall:
-Ryan:
+
+* Ryan: 
+
+Hello! My name is Ryan, [Here is a picture of me and a random dog i was swimming with this past summer!](https://www.instagram.com/p/BWTpi8pFWlB/?hl=en&taken-by=mompicsdaily). I love to study mathematics, watch and play sports, ski, listen to music and go to concerts, and last but not least, I love coding with R. It would be very hard for me to choose one hobby, but I guess I would have to choose skiing! I am in the PSU ski club, and for the past two years, I went on their winter break ski trip to Mont Tremblant in Quebec, Canada! What I love most about skiing is the combination of relaxation and extreme sport. The lift rides up the mountain are beautiful, quiet, and relaxing. And the trips down the mountain can be very treacherous and exciting! I love skiing through gladed trails, which basically means skiing down hill through the woods, it is a great workout and an indescribable experience. 
+
++---------------+-------------------+
+| Classes       | Times             |
++===============+===================+
+| Stat 297      | TuTh 12:05-1:20 p |
++---------------+-------------------+
+| RM 410        | TuTh 3:05-4:20 p  |
++---------------+-------------------+
+| Stat 462      | MWF 9:05-9:55 a   |
++---------------+-------------------+
+| Meteo 122     | MWF 2:30-3:20 p   |
++---------------+-------------------+
+| Econ 104      | MW  4:40-5:55 p   |
++---------------+-------------------+
+
+
 Andrea:
-```
 
-```{r R Markdown Syntax}
+##R Markdown Syntax
 
-```
-
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
